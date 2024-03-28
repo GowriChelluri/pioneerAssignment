@@ -2,3 +2,66 @@
     background-color: black;
     height:100vh
 }
+.crypto-bg-container{
+    color:white
+}
+.assets-heading{
+    font-size:14px
+}
+.price-card{
+    min-height:200px;
+    width:200px;
+    background-color: #1a1a1a;
+    margin-bottom:20px;
+    margin-right:30px;
+    display:flex;
+    flex-direction:column;
+    padding-left:20px;
+    border-radius:8px
+}
+.price-cards{
+    display:flex;
+    
+}
+.currency-logo{
+   
+    border-radius:40px;
+    font-size:40px;
+    border-width:0px;
+    color:#DFFF00;
+    margin-right:10px;
+    
+}
+.logo-name-container{
+    display: flex;
+   align-items: flex-start;
+}
+.code{
+    font-size:20px
+}
+.description{
+    font-size:13px;
+}
+.value-container{
+    display: flex;
+}
+.info-icon{
+    height:20px;
+    width:20px;
+    color:#DFFF00
+}
+.info-button-container{
+    display:flex;
+    justify-content:space-between
+}
+.button{
+    background-color:#DFFF00;
+    border-width:0px;
+    border-radius:6px;
+    padding:5px;
+    height:30px;
+    width:60px;
+    color:black;
+    font-weight:bold;
+    margin-right:20px
+}

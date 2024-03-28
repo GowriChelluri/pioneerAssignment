@@ -1,0 +1,16 @@
+.line-graph-bg-container{
+    height:330px;
+    min-width:300px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    padding:20px;
+    background-color:#1a1a1a;
+    color:white;
+}
+.line-graph-heading{
+    font-size:15px
+}
+.line{
+    color:white
+}

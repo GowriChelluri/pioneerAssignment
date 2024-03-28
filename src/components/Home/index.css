@@ -1,0 +1,52 @@
+.home-bg-container{
+    display:flex;
+    
+    background-color: black;
+    min-height:100vh;
+    
+}
+.greeting-heading{
+    color:white;
+    font-size:20px;
+   
+}
+.right-bg-container{
+    display: flex;
+    min-width:80%;
+    flex-direction: column;
+    margin-left: 40px;
+}
+.hand-wave-icon{
+    color:orange;
+    height:20px;
+    width:20px;
+    margin-top:20px;
+    margin-left:10px
+}
+.name-span{
+    color:#DFFF00
+}
+.description{
+    font-size: 12px;
+    color:white
+}
+.greeting-container{
+    display: flex;
+}
+.description{
+    color:white;
+    font-size:15px;
+    margin-top:0px
+}
+.span-description{
+    color:#7CFC00
+}
+.visuals-container{
+    display:flex;
+    align-items: center
+}
+
+.pie-chart{
+    margin-top:140px;
+    margin-right:400px
+}
